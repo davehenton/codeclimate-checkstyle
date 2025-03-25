@@ -1,4 +1,6 @@
-# This repository is deprecated and archived
+# Try Qlty today, the newest edition of Code Climate Quality.
+#### This repository is deprecated and archived.
+
 This is a repository for a Code Climate Quality plugin which is packaged as a Docker image.
 
 Code Climate Quality is being replaced with the new [Qlty](qlty.sh) code quality platform. Qlty uses a new plugin system which does not require packaging plugins as Docker images.
